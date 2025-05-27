@@ -3,7 +3,7 @@
 🚀 Desenvolvedor Front-End apaixonado por criar interfaces acessíveis e escaláveis com React e TypeScript.
 
 ## 🛠️ Tecnologias que uso:
-- React.js / React Native / Shopify
+- React.js / React Native / Next.js / Shopify
 - TypeScript / JavaScript
 - Redux, Zustand / ContextAPI
 - HTML / CSS / Sass
