@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Opa! Eu sou o Carlos Farias
 
-<!--
-**CarlosFariass/CarlosFariass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-End apaixonado por criar interfaces acessíveis e escaláveis com React e TypeScript.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que uso:
+- React.js / React Native
+- TypeScript / JavaScript
+- Redux, Zustand / ContextAPI
+- HTML / CSS / Sass
+- Ferramentas de Acessibilidade: NVDA, VoiceOver, aXe
+- GitLab CI / Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projetos em destaque
+- [📱 Ignite Social Media](https://github.com/CarlosFariass/ignite-social-media) – App de rede social com autenticação e feed dinâmico.
+- [📰 Ignews](https://github.com/CarlosFariass/ignews) – Blog com Stripe para pagamento de assinatura.
+
+## 📊 GitHub Stats
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosFariass&show_icons=true&theme=tokyonight)
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/carlos-farias-86b7a2121/) • [Portfólio](https://carlos-farias-resume.vercel.app)
