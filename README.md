@@ -1,4 +1,4 @@
-# 👋 Opa! Eu sou o Carlos Henrique
+# 👋 Opa! Eu sou o Carlos Henrique de Farias
 
 🚀 Desenvolvedor Front-End apaixonado por criar interfaces acessíveis e escaláveis com React e TypeScript.
 
